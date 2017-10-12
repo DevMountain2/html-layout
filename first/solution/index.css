@@ -10,7 +10,7 @@ body {
   height: 20vh;
   background-color: #444444;
 }
-
+  
 .main-content {
   background-color: #EFEFEF;
   margin: 0 auto;
@@ -18,7 +18,7 @@ body {
   height: 70vh;
 }
 
-.footer { 
+.footer {
   background-color: #222222;
   margin: 0 auto;
   width: 75%;
